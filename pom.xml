@@ -9,7 +9,7 @@
   project as the child of "spring-boot-starter-parent"	
   spring-boot-starter-parent contains all the default maven configurations,
   by declaring this as parent our project is inheriting all the properties
-  of the parent project
+  of the parent projectkjlk
   -->
   <parent>
   <groupId>org.springframework.boot</groupId>
